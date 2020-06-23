@@ -29,3 +29,4 @@ length to be shown on the text area.
 changed the fontSize and fotweight styles of the textarea so the password to be in bold and with a bigger font(22px)
 
 put cometary on the "script.js" file code
+{link to my portfolio3](https://github.com/zhim57/portfolio3)
