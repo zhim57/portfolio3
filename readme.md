@@ -30,3 +30,4 @@ changed the fontSize and fotweight styles of the textarea so the password to be 
 
 put cometary on the "script.js" file code
 {link to my portfolio3](https://github.com/zhim57/portfolio3)
+![image of the running application](Capture.jpg)
